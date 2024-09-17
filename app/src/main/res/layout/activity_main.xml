@@ -80,8 +80,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text="AC"
-                            android:textColor="@color/yellow"
-                            android:textSize="15sp"
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp"
                             tools:targetApi="lollipop" />
 
                         <Button
@@ -93,8 +93,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text="C"
-                            android:textColor="@color/yellow"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bbrac1"
@@ -105,8 +105,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text="("
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bbrac2"
@@ -117,8 +117,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text=")"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                     </LinearLayout>
 
@@ -146,8 +146,8 @@
                             android:padding="6dp"
                             android:text="sin"
                             android:textAllCaps="false"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bcos"
@@ -159,8 +159,8 @@
                             android:padding="6dp"
                             android:text="cos"
                             android:textAllCaps="false"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/btan"
@@ -172,8 +172,8 @@
                             android:padding="6dp"
                             android:text="tan"
                             android:textAllCaps="false"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/blog"
@@ -185,8 +185,8 @@
                             android:padding="6dp"
                             android:text="log"
                             android:textAllCaps="false"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bln"
@@ -198,8 +198,8 @@
                             android:padding="6dp"
                             android:text="ln"
                             android:textAllCaps="false"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
 
                     </LinearLayout>
@@ -228,8 +228,8 @@
                             android:padding="6dp"
                             android:text="x!"
                             android:textAllCaps="false"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bsquare"
@@ -241,8 +241,8 @@
                             android:padding="6dp"
                             android:text="x²"
                             android:textAllCaps="false"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bsqrt"
@@ -253,8 +253,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text="√"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/binv"
@@ -266,8 +266,8 @@
                             android:padding="6dp"
                             android:text="1/x"
                             android:textAllCaps="false"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bdiv"
@@ -278,8 +278,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text="÷"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="25sp" />
 
                     </LinearLayout>
 
@@ -307,7 +307,7 @@
                             android:padding="6dp"
                             android:text="7"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/b8"
@@ -319,7 +319,7 @@
                             android:padding="6dp"
                             android:text="8"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/b9"
@@ -331,7 +331,7 @@
                             android:padding="6dp"
                             android:text="9"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bmul"
@@ -342,8 +342,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text="×"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="25sp" />
 
                     </LinearLayout>
 
@@ -371,7 +371,7 @@
                             android:padding="6dp"
                             android:text="4"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/b5"
@@ -383,7 +383,7 @@
                             android:padding="6dp"
                             android:text="5"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/b6"
@@ -395,7 +395,7 @@
                             android:padding="6dp"
                             android:text="6"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bminus"
@@ -406,8 +406,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text="-"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="25sp" />
 
                     </LinearLayout>
 
@@ -435,7 +435,7 @@
                             android:padding="6dp"
                             android:text="1"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/b2"
@@ -447,7 +447,7 @@
                             android:padding="6dp"
                             android:text="2"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/b3"
@@ -459,7 +459,7 @@
                             android:padding="6dp"
                             android:text="3"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bplus"
@@ -470,8 +470,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text="+"
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="25sp" />
 
                     </LinearLayout>
 
@@ -499,7 +499,7 @@
                             android:padding="6dp"
                             android:text="π"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/b0"
@@ -511,7 +511,7 @@
                             android:padding="6dp"
                             android:text="0"
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bdot"
@@ -523,7 +523,7 @@
                             android:padding="6dp"
                             android:text="."
                             android:textColor="#fff"
-                            android:textSize="15sp" />
+                            android:textSize="20sp" />
 
                         <Button
                             android:id="@+id/bequal"
@@ -534,8 +534,8 @@
                             android:backgroundTint="@color/black_shade_2"
                             android:padding="6dp"
                             android:text="="
-                            android:textColor="#ffa500"
-                            android:textSize="15sp" />
+                            android:textColor="#0CDAD3"
+                            android:textSize="25sp" />
 
                     </LinearLayout>
 
